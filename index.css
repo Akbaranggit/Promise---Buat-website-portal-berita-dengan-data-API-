@@ -1,0 +1,22 @@
+.header{
+    background-color:rgb(255, 99, 71) ;
+    display: flex;
+}
+.bg1{
+    float: left;
+}
+h1{
+    margin-left: 80px;
+    padding-top: 10px;
+    color: white;
+}
+.container{
+    margin-top: 20px
+}
+.input{
+    width: 900px;
+}
+.btn{
+    margin-left: 20px;
+    width: 190px;
+}
